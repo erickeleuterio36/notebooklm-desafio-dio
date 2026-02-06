@@ -12,7 +12,7 @@ Depois disso, pesquisei no YouTube e no Google Chrome sobre o tema do projeto, c
 - Vídeos do YouTube sobre o assunto estudado  
 - Sites encontrados pelo Google Chrome  
 - Textos e trechos que copiei dessas fontes  
-- Conteúdos do curso da DIO com o professor Felipe Aguiar  
+- Conteúdos do curso da DIO.ME com o professor Felipe Aguiar.
 
 ##  Processo de análise
 Primeiro juntei todo o conteúdo que encontrei nas pesquisas.  
