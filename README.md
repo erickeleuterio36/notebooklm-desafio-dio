@@ -29,3 +29,8 @@ O NotebookLM me ajudou a estudar com mais foco e clareza.
 - YouTube  
 - Google Chrome  
 - GitHub
+
+![PRINTS](Capturar.PNG)
+
+![OUTRO PRINT](Captura1.PNG)
+
